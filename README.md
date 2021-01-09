@@ -12,3 +12,7 @@ These were used as zero-day exploits against macOS 10.13.3 & Safari/JSC on March
 # License
 
 The contents of this repo are licensed and distributed under the MIT license.
+
+# Want to learn?
+
+Check out https://ret2.io/trainings
